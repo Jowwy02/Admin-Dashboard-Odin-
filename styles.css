@@ -89,3 +89,23 @@
     justify-content: space-between;
   }
   
+  .search-bar {
+    display: flex;
+    padding: 17px 0px 0px 30px;
+  }
+  
+  .search-icon {
+    margin-right: 8px;
+    width: 22px;
+  }
+  
+  .search-input {
+    padding-left: 10px;
+    width: 45vw;
+    max-width: 471px;
+    height: 25px;
+    background-color: rgba(226, 232, 240, 255);
+    border: none;
+    border-radius: 15px;
+  }
+  
