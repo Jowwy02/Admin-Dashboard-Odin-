@@ -109,3 +109,34 @@
     border-radius: 15px;
   }
   
+  .profile-bar {
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    width: 20vw;
+    max-width: 196.2px;
+    min-width: 156.2px;
+    margin-right: 25px;
+    margin-left: 15px;
+    font-weight: bold;
+  }
+  
+  .profile-bar img {
+    margin-right: 5px;
+  }
+  
+  .profile-pic-small {
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    border: 1px solid rgb(197, 197, 197);
+  }
+  
+  .profile-pic-large {
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    border: 1px solid rgb(197, 197, 197);
+    margin-right: 15px;
+  }
+  
